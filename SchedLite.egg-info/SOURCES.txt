@@ -1,0 +1,6 @@
+README.md
+setup.py
+SchedLite.egg-info/PKG-INFO
+SchedLite.egg-info/SOURCES.txt
+SchedLite.egg-info/dependency_links.txt
+SchedLite.egg-info/top_level.txt
